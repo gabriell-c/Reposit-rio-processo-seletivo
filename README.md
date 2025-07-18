@@ -11,8 +11,8 @@ O pop-up original apresenta boa estrutura básica, porém identifiquei algumas o
 
 - Texto pouco destacado devido ao baixo contraste com o plano de fundo.
 - Hierarquia visual pouco clara, dificultando o foco nas informações principais.
-- Design robusto/bruto e pouco interativo
-- O botão de ação possui muito pouco destaque, o que pode prejudicar a conversão e até a leitura deivdo a escolhad e cores do texto e do fundo do botão.
+- Design pouco refinado e pouco interativo
+- O botão de ação possui muito pouco destaque, o que pode prejudicar a conversão e até a leitura deivdo a escolha de cores do texto e do fundo do botão.
 - Melhorei o design dos dots e botes de navegação, deixando-os mais modernos
 
 ### Justificativa para o redesenho
